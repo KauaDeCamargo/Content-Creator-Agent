@@ -1,0 +1,9 @@
+{
+  "dependencies": [
+    "."
+  ],
+  "graphs": {
+    "assistant": "./agent.py:copywriter"
+  },
+  "env": ".env"
+}

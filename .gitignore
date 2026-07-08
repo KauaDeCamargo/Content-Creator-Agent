@@ -11,3 +11,6 @@ wheels/
 
 # Keys
 .env
+
+# Langgraph files
+.langgraph_api/
